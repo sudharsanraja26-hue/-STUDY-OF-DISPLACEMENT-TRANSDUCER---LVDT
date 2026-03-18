@@ -1,22 +1,22 @@
-# -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
+# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 ### Name:SUDHARSANRAJA
 ### Reg no:212224080056
 
-AIM
+# AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
-OBJECTIVE:
+# OBJECTIVE:
 1. To study the basic principle of LVDT.
 2. Study of signal conditioning circuit.
 3. Study of LVDT as transducer.
 
-Apparatus Required
+# Apparatus Required
 <img width="620" height="167" alt="image" src="https://github.com/user-attachments/assets/6fb40928-c719-4422-8968-c8c13cffcb7f" />
 
-Circuit Diagram:
+# Circuit Diagram:
 
 <img width="584" height="418" alt="image" src="https://github.com/user-attachments/assets/2b7e3166-0b3e-49d0-84cf-8a8d64cb3c7a" />
 
-PROCEDURE:
+# PROCEDURE:
 1. The trainer is switched and power supply is checked for +12V and -12Vwith the help
 of multi meter.
 2. The trainer is switched off and connections are made as per the patching diagram.
@@ -31,10 +31,11 @@ voltages are noted down.
 
 
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
-output:
+# output:
 
 <img width="1236" height="701" alt="492766976-655c87c9-2968-4551-a847-67d474e5f6c3" src="https://github.com/user-attachments/assets/e96fe0af-e37b-4422-b164-3512df2b44ae" />
 
-RESULT:The operation of the LVDT transducer was successfully studied.
+# RESULT:
+The operation of the LVDT transducer was successfully studied.
 
 
